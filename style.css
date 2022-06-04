@@ -512,6 +512,18 @@ button:focus {
 	text-align: center;
 }
 
+footer {
+	color: #19191a;
+	text-align: center;
+}
+
+.footer-link:hover {
+	color: #D61C4E
+}
+
+.row {
+	margin-top: 0px;
+}	
 
 
 /*--------------------*/
